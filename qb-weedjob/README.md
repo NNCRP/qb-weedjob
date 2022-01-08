@@ -1,6 +1,6 @@
 # qb-weedjob
 QBCore Weedjob Script
-made with help of the qb−template
+made with help of qb−template
 
 # License
 
