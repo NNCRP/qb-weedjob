@@ -1,5 +1,5 @@
 # qb-weedjob
-QBCore Teleport Script
+QBCore Weedjob Script
 made with help of the qb−template
 
 # License
